@@ -8,8 +8,8 @@ cs + ds @ rutgers honors · csi surf fellow · metaxas lab · ai/ml @ cornell te
 ### 🚧 what i'm working on right now
 
 **🎾 nlp + tennis: predicting upsets from press conference language**  
-building a model to forecast grand slam upsets by combining cumulative tournament fatigue (total minutes played) with linguistic markers from pre-match press conferences. hypothesis: players who use more fatigue-related language ("tired", "heavy legs") or negative sentiment are more likely to lose to lower-ranked opponents, even controlling for rank.  
-→ nlp · transformers · feature engineering · sports analytics 
+using transformer models to analyze pre-match press conferences and predict grand slam upsets. hypothesis: fatigue-related language ("tired", "heavy legs") correlates with lower-ranked wins, even controlling for rank.
+→ nlp · transformers · feature engineering · sports analytics
 
 ---
 

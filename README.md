@@ -42,8 +42,8 @@ training conditional diffusion models to generate synthetic time series—wind f
 ### 🎙️ random
 
 - i ask dumb questions like "can a computer *really* understand language?" and then spend months trying to answer them
-- currently reading: way too many arxiv papers and also *[insert book if you have one]*
-- fun fact: i explain p-values to my mom for fun
+- currently reading: nothing (suggest something pls)
+- fun fact: i am the biggest cricket and tennis fan u will ever meet
 
 ![pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)

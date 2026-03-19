@@ -25,10 +25,10 @@ cs + ds @ rutgers honors · csi surf fellow · metaxas lab · ai/ml @ cornell te
 
 ### 🔬 stuff i've done
 
-- **parameter-efficient fine-tuning for llms** – poked at transformers to see how small you can make them before they break (loRA, etc.)
-- **anomaly detection** – built pipelines that don't just find weird patterns but explain *why* they're weird
-- **nlp + finance** – tried to figure out if news sentiment actually moves markets (spoiler: it's complicated)
-- **statistical validation** – designed frameworks to separate real signals from noise in financial data
+- **parameter-efficient fine-tuning for llms** – made transformers tiny before it was cool  
+- **anomaly detection** – found weird patterns, then explained why they're weird 
+- **nlp + finance** – tried to predict markets with news (spoiler: it's complicated)
+- **statistical validation** – separated real signals from noise so you don't have to  
 
 ---
 

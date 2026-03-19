@@ -1,7 +1,7 @@
 # 👋🏽 hey, i'm sonakshi
 
-**🧠 building AI that explains itself to doctors · ⚡ generating fake energy data that's useful**  
-cs + data science @ rutgers honors · csi surf fellow · metaxas lab
+**🤖 playing with llms · 🫀 making medical ai explain itself · ⚡ generating fake energy data · 📈 predicting financial chaos**  
+cs + ds @ rutgers honors · csi surf fellow · metaxas lab · ai/ml @ cornell tech
 
 ---
 

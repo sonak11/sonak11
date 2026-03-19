@@ -5,7 +5,10 @@ cs + data science @ rutgers honors · csi surf fellow · metaxas lab
 
 ---
 
-### 🚧 what i'm working on right now
+### 🚧 upcoming
+
+**🚀 ai/ml fellow break through @ cornell tech**
+→ more info to come!
 
 **🫀 int.ex.r (interactive explanation + refinement)**  
 a framework that lets clinicians *talk* to medical AI. ask questions, challenge diagnoses, refine reasoning.  
@@ -13,7 +16,14 @@ a framework that lets clinicians *talk* to medical AI. ask questions, challenge 
 
 **🌬️ diffusion models for energy systems**  
 training conditional diffusion models to generate synthetic time series—wind farm output, residential load, etc.—so energy researchers don't have to fight for real data.  
-→ csi surf fellow with prof. robert mieth · pytorch · time series · generative ai
+→ csi rad collab surf fellow with prof. robert mieth · pytorch · time series · generative ai
+
+---
+### 🚧 what i'm working on right now
+
+**🎾 nlp + tennis: predicting upsets from press conference language**  
+building a model to forecast grand slam upsets by combining cumulative tournament fatigue (total minutes played) with linguistic markers from pre-match press conferences. hypothesis: players who use more fatigue-related language ("tired", "heavy legs") or negative sentiment are more likely to lose to lower-ranked opponents, even controlling for rank.  
+→ nlp · transformers · feature engineering · sports analytics 
 
 ---
 

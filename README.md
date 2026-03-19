@@ -35,7 +35,7 @@ training conditional diffusion models to generate synthetic time series—wind f
 
 ### 📫 where to find me
 
-- 💼 **LinkedIn:** [linkedin.com/in/sharma-sonakshi]([https://www.linkedin.com/in/sharma-sonakshi)
+- 💼 **LinkedIn:** [www.linkedin.com/in/sharma-sonakshi](https://www.linkedin.com/in/sharma-sonakshi)
 - 📧 **Email:** s.sonakshi2006@gmail.com
 - 🐙 **Github** [sonak11](https://github.com/sonak11)
 - 💬 Always happy to chat!

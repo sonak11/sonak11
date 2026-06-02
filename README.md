@@ -1,6 +1,6 @@
 # 👋🏽 hey, i'm sonakshi
 
-**🤖 playing with llms · 🫀 making medical ai explain itself · ⚡ generating fake energy data · 📈 predicting financial chaos**  
+**🤖 playing with llms · 🫀 making medical ai explain itself · 📈 predicting financial chaos**  
 cs + ds @ rutgers honors · csi surf fellow · metaxas lab · ai/ml @ cornell tech
 
 ---
@@ -18,8 +18,6 @@ cs + ds @ rutgers honors · csi surf fellow · metaxas lab · ai/ml @ cornell te
 ### 🚧 upcoming
 
 **🚀 ai/ml fellow break through @ cornell tech** -  more info to come!
-
-**🌬️ diffusion models for energy systems**  - generating fake energy data so researchers stop fighting over real data  
 
 ---
 

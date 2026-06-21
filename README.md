@@ -1,145 +1,63 @@
-# sonakshi.sharma()
+# 👋🏽 hey, i'm sonakshi
 
-> building toward a future where ai works *with* experts, not around them.
+**🫀 making medical ai explain itself · ⚡ generating synthetic energy futures · 🤖 teaching agents to think together**
 
-```python
-while alive:
-    ask_questions()
-    build_things()
-    read_papers()
-    challenge_assumptions()
-```
-
-🫀 medical ai · ⚡ energy systems · 🤖 agentic ai · 🎾 sports analytics
-
-computer science + data science @ rutgers honors college
-cornell break through tech ai fellow · medical ai researcher · energy systems researcher
+cs + ds @ rutgers honors · medical ai researcher · energy systems researcher · ai/ml fellow @ cornell tech
 
 ---
 
-## currently
+### 🚧 currently building
 
-🫀 **int.ex.r** — interactive explanation + refinement
+**🫀 int.ex.r** — letting doctors question medical ai until they trust it
 
-building a clinician-in-the-loop medical ai system where doctors can question, challenge, and refine model explanations.
+**⚡ synthetic energy futures** — using diffusion models to generate realistic energy system data
 
-⚡ **synthetic energy futures**
+**🎾 tennis + nlp** — predicting upsets from press conferences before they happen
 
-researching diffusion models for realistic energy time-series generation and forecasting.
-
-🎾 **tennis + nlp**
-
-using press conferences and player language to predict future upsets.
-
-🤖 **agentic systems**
-
-exploring how multiple agents can critique, collaborate, and reason together.
+**🤖 agentic systems** — making ai agents critique each other's reasoning
 
 ---
 
-## questions i'm chasing
+### 🔬 interested in
 
-* can explanations become conversations?
-* what makes humans trust ai systems?
-* can synthetic data meaningfully replace expensive real-world collection?
-* how should intelligent agents collaborate with humans?
-* what does useful ai actually look like in practice?
-
----
-
-## trajectory
-
-```text
-statistics
-    ↓
-machine learning
-    ↓
-medical ai
-    ↓
-energy systems
-    ↓
-human-ai collaboration
-    ↓
-agentic intelligence
-```
-
-different domains.
-
-same goal:
-
-**building systems that help experts make better decisions.**
+* explainable ai
+* human-ai collaboration
+* healthcare
+* forecasting
+* agentic systems
+* sports analytics
 
 ---
 
-## toolkit
+### 🛠️ toolkit
 
-**ml**
-`pytorch` · `transformers` · `xgboost` · `scikit-learn` · `huggingface`
-
-**data**
-`python` · `pandas` · `numpy` · `pyspark` · `sql`
-
-**engineering**
-`java` · `c` · `git` · `linux`
-
-**research**
-`experimentation` · `evaluation` · `statistical validation` · `literature review`
+`🐍 python` `🔥 pytorch` `🤗 transformers` `⚡ xgboost` `📦 scikit-learn`
+`📊 pandas` `📈 numpy` `🗃️ sql` `☕ java` `⚙️ c` `🌊 git`
 
 ---
 
-## current obsessions
+### 🧠 currently wondering
 
-* explainable medical ai
-* diffusion models beyond images
-* multi-agent reasoning systems
-* human feedback loops
-* forecasting under uncertainty
-* tennis analytics
+> can explanations become conversations?
 
 ---
 
-## side quests
+### 📫 find me here
 
-🏏 cricket
+💼 linkedin: linkedin.com/in/sharma-sonakshi
 
-🎾 tennis
+📧 email: [s.sonakshi2006@gmail.com](mailto:s.sonakshi2006@gmail.com)
 
-🏋️ trying to convince myself cardio is fun
+🐙 github: github.com/sonak11
+
+---
+
+### 🎙️ side quests
+
+🏏 cricket addict
+
+🎾 tennis fanatic
 
 📚 collecting papers faster than i can read them
 
 ☕ powered by curiosity and caffeine
-
----
-
-## now
-
-📍 rutgers honors college
-
-🔬 medical ai research
-
-⚡ energy systems research
-
-🤖 break through tech ai @ cornell tech
-
-🌱 learning something new every day
-
----
-
-## let's connect
-
-💼 linkedin: <a href="https://www.linkedin.com/in/sharma-sonakshi">sharma-sonakshi</a>
-
-📧 email: [s.sonakshi2006@gmail.com](mailto:s.sonakshi2006@gmail.com)
-
-🐙 github: <a href="https://github.com/sonak11">sonak11</a>
-
----
-
-> "the most interesting problems live at the intersection of disciplines."
-
-<br>
-
-<p align="center">
-  curious student → researcher → builder → ?
-</p>

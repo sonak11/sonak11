@@ -2,7 +2,7 @@
 
 **🫀 building trustworthy medical ai · 🔍 studying how models revise their answers · ☁️ turning research into real systems**
 
-cs + data science @ rutgers honors · ml/ai engineer @ robert wood johnson medical school · medical ai researcher · ai/ml fellow @ microsoft
+ml/ai engineer @ rwjms · ai/ml fellow @ microsoft · medical ai & energy systems researcher · cs + data science @ rutgers honors
 
 ---
 

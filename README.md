@@ -10,7 +10,7 @@ ml/ai engineer @ rwjms · ai/ml fellow @ microsoft · medical ai & energy system
 
 **🫀 int.ex.r** — developing clinician-in-the-loop medical ai that supports retrieval, dialogue, and explanation refinement
 
-**🏥 health equity readiness (her)** — building a human-in-the-loop research platform at robert wood johnson medical school for processing interviews, reviewing ai-generated outputs, protecting participant privacy, and producing research-ready insights
+**🏥 health equity readiness (her)** — building a human-in-the-loop research platform at rwjms for processing interviews, reviewing ai-generated outputs, protecting participant privacy, and producing research-ready insights
 
 **🐙 repository trust signals** — working with microsoft to study how developers evaluate the trustworthiness of open-source repositories
 

@@ -1,54 +1,78 @@
 # 👋🏽 hey, i'm sonakshi
 
-**🫀 making medical ai explain itself · ⚡ generating synthetic energy futures · 🤖 teaching agents to think together**
+**🫀 building trustworthy medical ai · 🔍 studying how models revise their answers · ☁️ turning research into real systems**
 
-cs + ds @ rutgers honors · medical ai researcher · energy systems researcher · ai/ml fellow @ cornell tech
+cs + data science @ rutgers honors · ml/ai engineer @ robert wood johnson medical school · medical ai researcher · ai/ml fellow @ break through tech ai
 
 ---
 
 ### 🚧 currently building
 
-**🫀 int.ex.r** — letting doctors question medical ai until they trust it
+**🫀 int.ex.r** — developing clinician-in-the-loop medical ai that supports retrieval, dialogue, and explanation refinement
 
-**⚡ synthetic energy futures** — using diffusion models to generate realistic energy system data
+**🔍 intexr-scope** — benchmarking whether language models can identify exactly what new evidence changes—and preserve everything it does not
 
-**🎾 tennis + nlp** — predicting upsets from press conferences before they happen
+**🏥 health equity readiness (her)** — building a human-in-the-loop research platform at robert wood johnson medical school for processing interviews, reviewing ai-generated outputs, protecting participant privacy, and producing research-ready insights
 
-**🤖 agentic systems** — making ai agents critique each other's reasoning
+**🐙 repository trust signals** — working with microsoft through break through tech ai to study how developers evaluate the trustworthiness of open-source repositories
+
+**⚡ synthetic energy futures** — using diffusion models to generate realistic energy-system time-series data
+
+---
+
+### ✨ featured work
+
+**☁️ end-to-end healthcare ai infrastructure** — developed and deployed an aws-based workflow using bedrock, lambda, step functions, dynamodb, s3, cognito, comprehend, transcribe, amplify, and quicksight
+
+**🤝 human-in-the-loop ai** — designed multi-stage review workflows that keep researchers in control of transcription, privacy, qualitative coding, and analytics
+
+**🎾 tennis + nlp** — explored whether press-conference language can help predict professional tennis upsets
+
+**🥗 nourri** — co-led the development of a food-scoring framework combining nutrition, processing, and sustainability signals
 
 ---
 
 ### 🔬 interested in
 
-* explainable ai
+* trustworthy and explainable ai
 * human-ai collaboration
-* healthcare
-* forecasting
+* medical ai
+* llm evaluation and revision
 * agentic systems
-* sports analytics
+* generative modeling
+* applied machine learning
 
 ---
 
 ### 🛠️ toolkit
 
-`🐍 python` `🔥 pytorch` `🤗 transformers` `⚡ xgboost` `📦 scikit-learn`
-`📊 pandas` `📈 numpy` `🗃️ sql` `☕ java` `⚙️ c` `🌊 git`
+**machine learning**
+`python` `pytorch` `transformers` `scikit-learn` `xgboost` `langchain`
+
+**data**
+`pandas` `numpy` `pyspark` `sql`
+
+**cloud + systems**
+`aws` `bedrock` `lambda` `step functions` `dynamodb` `s3` `cognito` `git`
+
+**languages**
+`java` `c`
 
 ---
 
 ### 🧠 currently wondering
 
-> can explanations become conversations?
+> when new evidence arrives, can ai change exactly what it should—and nothing else?
 
 ---
 
 ### 📫 find me here
 
-💼 linkedin: linkedin.com/in/sharma-sonakshi
+💼 linkedin: [linkedin.com/in/sharma-sonakshi](https://linkedin.com/in/sharma-sonakshi)
 
 📧 email: [s.sonakshi2006@gmail.com](mailto:s.sonakshi2006@gmail.com)
 
-🐙 github: github.com/sonak11
+🐙 github: [github.com/sonak11](https://github.com/sonak11)
 
 ---
 
@@ -56,7 +80,7 @@ cs + ds @ rutgers honors · medical ai researcher · energy systems researcher �
 
 🏏 cricket addict
 
-🎾 tennis fanatic
+🎾 former nationally ranked junior tennis player
 
 📚 collecting papers faster than i can read them
 

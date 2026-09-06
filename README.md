@@ -2,7 +2,7 @@
 
 **🫀 building trustworthy medical ai · 🔍 studying how models revise their answers · ☁️ turning research into real systems**
 
-cs + data science @ rutgers honors · ml/ai engineer @ robert wood johnson medical school · medical ai researcher · ai/ml fellow @ break through tech ai
+cs + data science @ rutgers honors · ml/ai engineer @ robert wood johnson medical school · medical ai researcher · ai/ml fellow @ microsoft
 
 ---
 
@@ -10,11 +10,9 @@ cs + data science @ rutgers honors · ml/ai engineer @ robert wood johnson medic
 
 **🫀 int.ex.r** — developing clinician-in-the-loop medical ai that supports retrieval, dialogue, and explanation refinement
 
-**🔍 intexr-scope** — benchmarking whether language models can identify exactly what new evidence changes—and preserve everything it does not
-
 **🏥 health equity readiness (her)** — building a human-in-the-loop research platform at robert wood johnson medical school for processing interviews, reviewing ai-generated outputs, protecting participant privacy, and producing research-ready insights
 
-**🐙 repository trust signals** — working with microsoft through break through tech ai to study how developers evaluate the trustworthiness of open-source repositories
+**🐙 repository trust signals** — working with microsoft to study how developers evaluate the trustworthiness of open-source repositories
 
 **⚡ synthetic energy futures** — using diffusion models to generate realistic energy-system time-series data
 
